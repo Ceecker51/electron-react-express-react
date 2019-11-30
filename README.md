@@ -66,3 +66,10 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `yarn build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+# References
+Electron with React + Deployment: https://medium.com/@brockhoff/using-electron-with-react-the-basics-e93f9761f86f
+Hot Reload: https://dev.to/jsmanifest/create-your-first-react-desktop-application-in-electron-with-hot-reload-4jj5
+Electron with server: https://github.com/jlongster/electron-with-server-example
+Deployment React: https://create-react-app.dev/docs/deployment/
+
